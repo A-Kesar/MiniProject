@@ -10,7 +10,7 @@ import numpy as np
 
 diabetes_model = pickle.load(open('diabetes_model.sav', 'rb'))
 
-heart_disease_model = pickle.load(open('heart_model.sav','rb'))
+heart_disease_model = pickle.load(open('Heart_model.sav','rb'))
 
 
 # sidebar for navigation
